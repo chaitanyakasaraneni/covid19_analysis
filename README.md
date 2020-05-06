@@ -6,7 +6,8 @@ This project is done as a Capstone Project for Udacity's Data Science Nano Degre
 <p align="center"> SARS-CoV-2 Structure(Source:  <a href="https://www.scientificanimations.com/wiki-images/">Scientific Animations</a>  under CC License)</p>
 
 <br>
-The medium article can be found [here](https://medium.com/@chaitanya_kasaraneni/covid-19-data-analysis-e9cb652e8c10)
+
+The medium article can be found ***[`here`](https://medium.com/@chaitanya_kasaraneni/covid-19-data-analysis-e9cb652e8c10)***
 
 ### Introdution
 The COVID-19 pandemic also known as coronavirus pandemic is the ongoing outbreak of coronavirus disease (COVID-19). It is caused by a coronavirus called severe acute respiratory syndrome coronavirus 2 (SARS‑CoV‑2).
