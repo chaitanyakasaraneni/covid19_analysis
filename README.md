@@ -29,6 +29,6 @@ As there are many data sources available online, the one used in this blog is pr
 
 ### Predictions
 Three variants of Linear Regression are used in this project for predicting the count of future cases.
-![Future Predictions](https://github.com/chaitanyakasaraneni/covid19_analysis/blob/master/images/Future_Predictions.png)
+![Future Predictions](https://github.com/chaitanyakasaraneni/covid19_analysis/blob/master/images/Future_Predictions-updated.png)
 
 ***Note**: This is just a simple model and the results are not accurate. For more accurate predictions, try using other regression or deep learning techniques.*
